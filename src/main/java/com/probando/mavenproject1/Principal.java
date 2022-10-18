@@ -11,7 +11,6 @@ package com.probando.mavenproject1;
 public class Principal {
     public static void main(String[] args) {
         Mavenproject1 mp = new Mavenproject1();
-        
         mp.setVisible(true);
     }
 }

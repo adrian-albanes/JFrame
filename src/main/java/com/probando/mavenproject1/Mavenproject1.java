@@ -44,7 +44,7 @@ public class Mavenproject1 extends JFrame{
         etiqueta2.setBounds(100, 10, 150, 30);
         etiqueta2.setForeground(Color.red);//Cambiar el color de nuestra etiqueta}
         etiqueta2.setOpaque(true);//Establecemos pintar
-        etiqueta2.setBackground(Color.BLUE);//Cambiar fondo (Si queremos que funcione, debemos agregar el método setOpaque())
+        etiqueta2.setBackground(Color.WHITE);//Cambiar fondo (Si queremos que funcione, debemos agregar el método setOpaque())
         panel.add(etiqueta2);
     }
         
